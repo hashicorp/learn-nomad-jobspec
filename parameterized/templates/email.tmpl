@@ -5,10 +5,10 @@ SUBJ: Thanks for your interest.
 
 Hey {{$S := (env "NOMAD_META_customer_name" | split " ")}}{{index $S 0}},
 
-Thanks for your interest{{ if env "NOMAD_META_product" }} in {{env "NOMAD_META_product"}}{{end}}. 
+Thanks for your interest{{ if env "NOMAD_META_product_name" }} in the {{env "NOMAD_META_product_name"}} product{{end}}. 
 
 I look forward to talking with you soon.
 
 Sincerely,
-{{ env "NOMAD_META_rep_name"  }}
+{{$S := (env "NOMAD_META_rep_name" | split " ")}}{{index $S 0}}
 {{ env "NOMAD_META_rep_title" }}
