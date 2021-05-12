@@ -1,0 +1,69 @@
+----
+
+CHAPTER VIII
+OF THE ANALYTICAL ENGINE
+
+The circular arrangement of the axes of the Difference Engine round large
+central wheels led to the most extended prospects. The whole of arithmetic now
+appeared within the grasp of mechanism. A vague glimpse even of an Analytical
+Engine at length opened out, and I pursued with enthusiasm the shadowy vision.
+The drawings and the experiments were of the most costly kind. Draftsmen of
+the highest order were necessary to economize the labour of my own head;
+whilst skilled workmen were required to execute the experimental machinery to
+which I was obliged constantly to have recourse.
+
+In order to carry out my pursuits successfully, I had purchased a house with
+above a quarter of an acre of ground in a very quiet locality. My coach-house
+was now converted into a forge and a foundry, whilst my stables were
+transformed into a workshop. I built other extensive workshops myself, and had
+a fire-proof building for my drawings and draftsmen. Having myself worked with
+a variety of tools, and having studied the art of constructing each of them, I
+at length laid it down as a principle—that, except in rare cases, I would
+never do anything myself if I could afford to hire another person who could do
+it for me.
+
+The complicated relations which then arose amongst the various parts of the
+machinery would have baffled the most tenacious memory. I overcame that
+difficulty by improving and extending a language of signs, the Mechanical
+Notation, which in 1826 I had explained in a paper printed in the “Phil.
+Trans.” By such means I succeeded in mastering trains of investigation so vast
+in extent that no length of years ever allotted to one individual could
+otherwise have enabled me to control. By the aid of the Mechanical Notation,
+the Analytical Engine became a reality: for it became susceptible of
+demonstration.
+
+Such works could not be carried on without great expenditure. The fluctuations
+in the demand and supply of skilled labour were considerable. The railroad
+mania withdrew from other pursuits the most intellectual and skilful
+draftsmen. One who had for some years been my chief assistant was tempted by
+an offer so advantageous that in justice to his own family he could scarcely
+have declined it. Under these circumstances I took into consideration the plan
+of advancing his salary to one guinea per day. Whilst this was in abeyance, I
+consulted my venerable surviving parent. When I had fully explained the
+circumstances, my excellent mother replied: “My dear son, you have advanced
+far in the accomplishment of a great object, which is worthy of your ambition.
+You are capable of completing it. My advice is—pursue it, even if it should
+oblige you to live on bread and cheese.”
+
+This advice entirely accorded with my own feelings. I therefore retained my
+chief assistant at his advanced salary.
+
+The most important part of the Analytical Engine was undoubtedly the
+mechanical method of carrying the tens. On this I laboured incessantly, each
+succeeding improvement advancing me a step or two. The difficulty did not
+consist so much in the more or less complexity of the contrivance as in the
+reduction of the time required to effect the carriage. Twenty or thirty
+different plans and modifications had been drawn. At last I came to the
+conclusion that I had exhausted the principle of successive carriage. I
+concluded also that nothing but teaching the Engine to foresee and then to act
+upon that foresight could ever lead me to the object I desired, namely, to
+make the whole of any unlimited number of carriages in one unit of time. One
+morning, after I had spent many hours in the drawing-office in endeavouring to
+improve the system of successive carriages, I mentioned these views to my
+chief assistant, and added that I should retire to my library, and endeavour
+to work out the new principle. He gently expressed a doubt whether the plan
+was possible, to which I replied that, not being able to prove its
+impossibility, I should follow out a slight glimmering of light which I
+thought I perceived.
+
+source - http://www.fourmilab.ch/babbage/lpae.html
