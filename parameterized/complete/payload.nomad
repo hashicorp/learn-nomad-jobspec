@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: Apache-2.0
+
 ## These variables allow the job to have overridable default values
 ## for datacenter and driver.
 
